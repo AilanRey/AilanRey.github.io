@@ -6,7 +6,6 @@
 Flower code By Ailan
 A Student Coder
 
-Responsive Web -- bisa langsung disesuikan di file css --> style.css
 
 # Author
 - Flower Code : Ailan Rey (@AilanRey)
